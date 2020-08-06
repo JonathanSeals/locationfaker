@@ -1,0 +1,9 @@
+Package: fun.tweaks.locationfaker
+Name: Location Faker
+Depends: mobilesubstrate, preferenceloader
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Fake your location to most apps. Coordinates can be configured in the settings app.
+Maintainer: jon
+Author: jon
+Section: Tweaks
